@@ -68,17 +68,15 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 𝙒𝘼𝙍𝙉𝙄𝙉𝙂 𝘿𝙊𝙉𝙏 𝘾𝙇𝙊𝙉𝙀 𝙈𝙔 𝘽𝙊𝙏
- 
+
  𝙂𝙀𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙄𝘿 𝙃𝙀𝙍𝙀,😁
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
  
 𝙒𝘼𝙍𝙉𝙄𝙉𝙂 𝘿𝙊𝙉𝙏 𝘾𝙇𝙊𝙉𝙀 𝙈𝙔 𝘽𝙊𝙏
-
   <a href="https://enzo-md-sessions-generator-2.onrender.com/pair/"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=blue&style=for-the-badge&logo=java"/></a></p>
 
 𝙒𝘼𝙍𝙉𝙄𝙉𝙂 𝘿𝙊𝙉𝙏 𝘾𝙇𝙊𝙉𝙀 𝙈𝙔 𝘽𝙊𝙏
-  
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
 
 
@@ -120,7 +118,7 @@
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ STANY-TECH CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 🫴Join our WhatsApp group to connect with the community:  
-[![WhatsApp Group](https://img.shields.io/badge/Join%20WhatsApp-Group-green+yellow?style=for-the-icon=what'sapp)](chat.whatsapp.com/FDPHwoJOH56BuNF5pWKXWo)  
+[![WhatsApp Group](https://img.shields.io/badge/Join%20WhatsApp-Group-green+yellow?style=for-the-badge)](chat.whatsapp.com/FDPHwoJOH56BuNF5pWKXWo)  
 
 💪𝗬𝗢𝗨𝗧𝗨𝗕𝗘 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 
 Subscribe to our YouTube channel for the latest updates:  
