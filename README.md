@@ -120,7 +120,7 @@
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ STANY-TECH CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 🫴Join our WhatsApp group to connect with the community:  
-[![WhatsApp Group](https://img.shields.io/badge/Join%20WhatsApp-Group-green+yellow?style=for-the-badge=round)](chat.whatsapp.com/FDPHwoJOH56BuNF5pWKXWo)  
+[![WhatsApp Group](https://img.shields.io/badge/Join%20WhatsApp-Group-green+yellow?style=for-the-icon=what'sapp)](chat.whatsapp.com/FDPHwoJOH56BuNF5pWKXWo)  
 
 💪𝗬𝗢𝗨𝗧𝗨𝗕𝗘 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 
 Subscribe to our YouTube channel for the latest updates:  
