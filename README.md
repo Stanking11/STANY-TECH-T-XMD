@@ -84,7 +84,7 @@
  
 𝙒𝘼𝙍𝙉𝙄𝙉𝙂 𝘿𝙊𝙉𝙏 𝘾𝙇𝙊𝙉𝙀 𝙈𝙔 𝘽𝙊𝙏
 
-  <a href="https://enzo-md-sessions-generator-2.onrender.com/pair/"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=blue&style=for-the-badge&logo=java"/></a></p>
+  <a href="https://stany-tech-session.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=blue&style=for-the-badge&logo=java"/></a></p>
 
 𝙒𝘼𝙍𝙉𝙄𝙉𝙂 𝘿𝙊𝙉𝙏 𝘾𝙇𝙊𝙉𝙀 𝙈𝙔 𝘽𝙊𝙏
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
