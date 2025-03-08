@@ -125,10 +125,11 @@
 
 🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗
 
-😍Stay updated with our WhatsApp channel:<A href="https://whatsapp.com/channel/0029VaxKouY7tkj8NiPg0t45" target="_blank">
+😍𝐒𝐓𝐀𝐘 𝐀𝐂𝐓𝐈𝐕𝐄 𝐈𝐍 𝐎𝐔𝐑 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐅𝐎𝐑 𝐌𝐎𝐑𝐄:
+<A href="https://whatsapp.com/channel/0029VaxKouY7tkj8NiPg0t45" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ STANY-TECH CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-🫴Join our WhatsApp group to connect with the community:  
+🫴𝐉𝐎𝐈𝐍 𝐎𝐔𝐑 𝐖𝐇𝐀𝐓𝐒 𝐀𝐏𝐏 𝐆𝐑𝐎𝐔𝐏 𝐅𝐎𝐑 𝐔𝐏𝐃𝐀𝐓𝐄𝐒:  
 [![WhatsApp Group](https://img.shields.io/badge/Join%20WhatsApp-Group-green+yellow?style=for-the-badge)](chat.whatsapp.com/FDPHwoJOH56BuNF5pWKXWo)  
 
 💪𝗬𝗢𝗨𝗧𝗨𝗕𝗘 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 
