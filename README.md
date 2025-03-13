@@ -93,9 +93,17 @@ You will need a session ID to run the STANY-TECH-XMD. Click the button below to 
 
    <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=purple&style=for-the-badge&logo=heroku"/></a></p>
 
-𝙳𝙴𝙿𝙻𝙾𝚈 𝙾𝙽 𝙷𝙴𝚁𝙾𝙺𝚄
+<h2 align="center">Our Deployment Options</h2>
 
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Stanking11/STANY-TECH-XMD"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku"/></a>
+---
+
+<h4 align="center">1. Heroku</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+
+<p align="center">
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Stanking11/STANY-TECH-T-XMD/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=800&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
 
