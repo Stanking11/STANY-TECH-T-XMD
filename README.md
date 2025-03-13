@@ -65,26 +65,30 @@
 
 𝐒𝐓𝐀𝐑𝐓 𝐓𝐇𝐄 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐍𝐎𝐖
 
+### 1. Fork This Repository
+
+Start by forking this repository to your own GitHub account. Click the button below to fork:
+
+  <a href="https://github.com/Stanking11/STANY-TECH-T-XMD/fork"><img title="STANY-TECH-XMD" src="https://img.shields.io/badge/FORK-STANY-TECH-XMDh?color=blue&style=for-the-badge&logo=stackshare"></a>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
- 
+### 2. Get Session ID 
 
-  
-   
-   <a href="https://github.com/Stanking11/STANY-TECH-XMD/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=blue&style=for-the-badge&logo=github"/></a></p>
+You will need a session ID to run the STANY-TECH-XMD. Click the button below to obtain your session ID.if any error in loading site try vpn:
 
+> **1️⃣Pair Code (Session ID)**
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a href='https://tinyurl.com/subzero-md' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
 
+> **2️⃣Pair Code (Session ID)**
 
+<a href='https://david-session-biy2.onrender.com' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
 
-
- 𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐍𝐎𝐖,😁
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
- 
-
-
-  <a href="https://david-session-biy2.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=blue&style=for-the-badge&logo=java"/></a></p>
 
 
 
