@@ -92,8 +92,7 @@ You will need a session ID to run the STANY-TECH-XMD. Click the button below to 
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=800&color=FF0000&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
 
-
-   𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗧𝗘𝗔𝗠&𝗢𝗙𝗙𝗜𝗖𝗘𝗦
+ 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗧𝗘𝗔𝗠&𝗢𝗙𝗙𝗜𝗖𝗘𝗦
 
 <h4 align="center">OUR CHANNEL</h4>
 <p style="text-align: left corner; font-size: 1.2em;">
