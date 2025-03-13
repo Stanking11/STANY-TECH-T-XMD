@@ -122,7 +122,7 @@ You will need a session ID to run the STANY-TECH-XMD. Click the button below to 
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="center">
-<a href='https://whatsapp.com/channel/0029VaxKouY7tkj8NiPg0t45' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Channel ‎Updates-#4CBB17?style=for-the-badge&logo=WhatsApp&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://whatsapp.com/channel/0029VaxKouY7tkj8NiPg0t45' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/-Channel ‎Updates-#4CBB17?style=for-the-badge&logo=WhatsApp&logoColor=white'/< width=150 height=30/p></a>
 
 
 😁𝗦𝗧𝗔𝗡𝗬 𝗧𝗘𝗖𝗛 𝗫𝗠𝗗 𝗥𝗘𝗔𝗟𝗘𝗦𝗘𝗗 𝟮𝟬𝟮𝟱
