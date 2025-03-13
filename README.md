@@ -28,13 +28,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=10000000&color=FF0000&lines=true&vCenter=true&width=815&height=100&lines=STANY-TECH-XMD+🇹🇿+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg)  
 
-𝐒𝐀𝐅𝐄 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔 𝐍𝐎 𝐁𝐔𝐑𝐍𝐒 
+
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=2000&color=FFFF00&lines=true&vCenter=true&width=815&height=100&lines=DEVELOPER-STANLEY+🇹🇿+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg) 
 
 
-✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️
+
 
 
 
