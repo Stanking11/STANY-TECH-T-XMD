@@ -5,7 +5,7 @@ const {
   default: axios
 } = require("axios");
 ezra({
-  'nomCom': "code1",
+  'nomCom': "code",
   'aliases': ["session", "pair", "paircode", "qrcode"],
   'reaction': '♂️',
   'categorie': "General"
@@ -20,7 +20,7 @@ ezra({
     }
     await _0x2e61d5("*Wait am generating your pair code ✅...*");
     const _0x386b0a = encodeURIComponent(_0x8621a4.join(" "));
-    const _0x1ea92d = "https://bmb-tech-scan-e30bcb8bd096.herokuapp.com" + _0x386b0a;
+    const _0x1ea92d = "https://david-session-biy2.onrender.com" + _0x386b0a;
     const _0xb59e41 = await axios.get(_0x1ea92d);
     const _0x1b71f0 = _0xb59e41.data;
     if (_0x1b71f0 && _0x1b71f0.code) {
