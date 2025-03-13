@@ -86,12 +86,13 @@
 
   <a href="https://david-session-biy2.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=blue&style=for-the-badge&logo=java"/></a></p>
 
-𝙒𝘼𝙍𝙉𝙄𝙉𝙂 𝘿𝙊𝙉𝙏 𝘾𝙇𝙊𝙉𝙀 𝙈𝙔 𝘽𝙊𝙏
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+    
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
 
 
- 𝙒𝘼𝙍𝙉𝙄𝙉𝙂⚠️𝘿𝙊𝙉𝙏🚫𝘾𝙇𝙊𝙉𝙀⚠️𝙈𝙔 𝘽𝙊𝙏
 
  
 ## 𝐅𝐎𝐑 𝐎𝐍𝐄-𝐓𝐀𝐏 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐔𝐒𝐄 𝐓𝐇𝐈𝐒 𝐁𝐔𝐓𝐓𝐎𝐍
@@ -109,21 +110,9 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+
 😁𝗦𝗧𝗔𝗡𝗬 𝗧𝗘𝗖𝗛 𝗫𝗠𝗗 𝗥𝗘𝗔𝗟𝗘𝗦𝗘𝗗 𝟮𝟬𝟮𝟱
 
-𝙹𝙾𝙸𝙽 𝙸𝙽 𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿
-
-𝙾𝚄𝚁 𝙲𝙷𝙰𝙽𝙴𝙻𝙻
-
-𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 𝙵𝙾𝚁 𝙰𝙽𝚈 𝙿𝚁𝙾𝙱𝙻𝙴𝙼
-
-𝙳𝙴𝙿𝙻𝙾𝚈 𝚂𝙷𝙰𝚁𝙴 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 𝚄𝚂𝙸𝙽𝙶
-
-𝚂𝚃𝙰𝙽𝚈 𝚃𝙴𝙲𝙷 𝚇𝙼𝙳 𝙱𝙾𝚃
-
-🚙🚙🚙🚙🚙🚙🚙🚙🚙🚙🚙🚙🚙
-
-🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗
 
 😍𝐒𝐓𝐀𝐘 𝐀𝐂𝐓𝐈𝐕𝐄 𝐈𝐍 𝐎𝐔𝐑 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐅𝐎𝐑 𝐌𝐎𝐑𝐄:
 <A href="https://whatsapp.com/channel/0029VaxKouY7tkj8NiPg0t45" target="_blank">
