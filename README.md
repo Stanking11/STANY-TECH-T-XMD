@@ -123,7 +123,7 @@ You will need a session ID to run the STANY-TECH-XMD. Click the button below to 
 
 𝗢𝗨𝗥 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗧𝗘𝗔𝗠 𝗔𝗡𝗗 𝗖𝗘𝗡𝗧𝗘𝗥
 
-<h4 align="center">1.OUR CHANNEL</h4>
+<h4 align="center">OUR CHANNEL</h4>
 <p style="text-align: left corner; font-size: 1.2em;">
   
 <p align="center">
@@ -131,7 +131,7 @@ You will need a session ID to run the STANY-TECH-XMD. Click the button below to 
 
 
 
-  <h4 align="center">2.OUR GROUP</h4>
+  <h4 align="center">OUR GROUP</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="center">
@@ -139,7 +139,7 @@ You will need a session ID to run the STANY-TECH-XMD. Click the button below to 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></
 
 
-<h4 align="center">3.YOU TUBE</h4>
+<h4 align="center">YOU TUBE</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="center">
