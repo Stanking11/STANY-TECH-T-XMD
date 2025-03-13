@@ -59,7 +59,7 @@ You will need a session ID to run the STANY-TECH-XMD. Click the button below to 
 
 ---
 
-<h4 align="center">1. Heroku</h4>
+<h4 align="center">1.HEROKU</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 
@@ -68,7 +68,7 @@ You will need a session ID to run the STANY-TECH-XMD. Click the button below to 
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=800&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
 
-<h4 align="center">2. Render</h4>
+<h4 align="center">2.RENDER</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="center">
@@ -76,7 +76,7 @@ You will need a session ID to run the STANY-TECH-XMD. Click the button below to 
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=800&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
 
-  <h4 align="center">3. Replit</h4>
+  <h4 align="center">3.REPLIT</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 <p align="center">
@@ -84,7 +84,7 @@ You will need a session ID to run the STANY-TECH-XMD. Click the button below to 
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=800&color=48FF68&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
 
-  <h4 align="center">4. TalkDrove Free</h4>
+  <h4 align="center">4.TALK.DROVE</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="center">
@@ -92,7 +92,10 @@ You will need a session ID to run the STANY-TECH-XMD. Click the button below to 
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=800&color=FF0000&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
 
- 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗧𝗘𝗔𝗠&𝗢𝗙𝗙𝗜𝗖𝗘𝗦
+
+
+
+𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗧𝗘𝗔𝗠 𝗖𝗘𝗡𝗧𝗘𝗥 𝗔𝗡𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦
 
 <h4 align="center">OUR CHANNEL</h4>
 <p style="text-align: left corner; font-size: 1.2em;">
