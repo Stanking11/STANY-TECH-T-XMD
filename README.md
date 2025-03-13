@@ -24,7 +24,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=10000000&color=FF0000&lines=true&vCenter=true&width=815&height=100&lines=STANY-TECH-XMD+🇹🇿+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg)  
 
-𝘽𝙊𝙏 𝙄𝙎 𝙎𝘼𝙁𝙀 𝙊𝙉 𝙃𝙀𝙍𝙊𝙆𝙐 𝙉𝙊 𝘽𝙐𝙍𝙉𝙎
+𝐒𝐀𝐅𝐄 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔 𝐍𝐎 𝐁𝐔𝐑𝐍𝐒 
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=2000&color=FFFF00&lines=true&vCenter=true&width=815&height=100&lines=DEVELOPER-STANLEY+🇹🇿+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg) 
@@ -36,7 +36,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4800color=RRGGBB&lines=true&vCenter=true&width=815&height=100&lines=DEVELOPER-STANLEY+🇹🇿+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg) 
 
- <a 
+  
 
 <p align="centre"><img src="https://files.catbox.moe/c4svxo.jpg" width="500" heigh
 
@@ -50,17 +50,17 @@
 
 ## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 STANY-TECH X𝐌𝐃 𝐁𝐎𝐓 
 
-1👉𝚂𝚃𝙰𝚁 𝙼𝚈 𝚁𝙴𝙿𝙾
+1👉𝐒𝐓𝐀𝐑 𝐌𝐘 𝐑𝐄𝐏𝐎
 
-𝟸🌝𝙵𝙾𝚁𝙺 𝙼𝚈 𝚁𝙴𝙿𝙾
+𝟸🌝𝐅𝐎𝐑𝐊 𝐌𝐘 𝐑𝐄𝐏𝐎
 
-𝟹😃𝙵𝙾𝙻𝙻𝙾𝚆 𝙼𝚈 𝙲𝙷𝙰𝙽𝙽𝙴𝙻
+𝟹😃𝐅𝐎𝐋𝐋 𝐌𝐘 𝐂𝐇𝐀𝐍𝐍𝐄𝐋
 
-𝟺😁𝙹𝙾𝙸𝙽 𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙵𝙾𝚁 𝙼𝙾𝚁𝙴 𝚄𝙿𝙳𝙰𝚃𝙴𝚂
+𝟺😁𝐉𝐎𝐈𝐍 𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 𝐅𝐎𝐑 𝐌𝐎𝐑𝐄 𝐔𝐏𝐃𝐀𝐓𝐄𝐒
 
-𝟻😘𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 𝙵𝙾𝚁 𝙰𝙽𝚈 𝙿𝚁𝙾𝙱𝙻𝙴𝙼
+𝟻😘𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐌𝐄 𝐅𝐎𝐑 𝐇𝐄𝐋𝐏
 
-𝟼🙏𝙸 𝙻𝙾𝚅𝙴 𝚈𝙾𝚄 𝙰𝙻𝙻 𝙼𝚈 𝚂𝚄𝙿𝙿𝙾𝚃𝙴𝚁𝚂
+𝟼🙏𝐖𝐀𝐈𝐓 𝐅𝐎𝐑 𝐌𝐎𝐑𝐄 𝐏𝐑𝐎𝐉𝐄𝐂𝐓
 
 
 𝐒𝐓𝐀𝐑𝐓 𝐓𝐇𝐄 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐍𝐎𝐖
