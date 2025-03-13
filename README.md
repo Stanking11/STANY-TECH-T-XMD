@@ -109,7 +109,7 @@ You will need a session ID to run the STANY-TECH-XMD. Click the button below to 
 <p align="center">
 <a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> </a>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=800&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=800&color=48FF68&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
 
   <h4 align="center">4. TalkDrove Free</h4>
 <p style="text-align: center; font-size: 1.2em;">
@@ -143,5 +143,5 @@ You will need a session ID to run the STANY-TECH-XMD. Click the button below to 
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="center">
-<a href='https://youtube.com/@stanleytechnology?si=FRItJCOs0nWSADoq' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Group Chats-FF0000?style=for-the-badge&logo=YouTube&logoColor=black'/< width=150 height=28/p></a>
+<a href='https://youtube.com/@stanleytechnology?si=FRItJCOs0nWSADoq' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-YouTubeChannel-FF0000?style=for-the-badge&logo=YouTube&logoColor=black'/< width=150 height=28/p></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></
