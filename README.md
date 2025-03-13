@@ -33,7 +33,7 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/Stanking11/STANY-TECH-T-XMD/fork"><img title="STANYTECH-XMD" src="https://img.shields.io/badge/FORK-STANYTECH-BOTh?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Stanking11/STANY-TECH-T-XMD/fork"><img title="STANYTECH-XMD" src="https://img.shields.io/badge/FORK-STANYTECH-BOTh?color=blue&style=for-the-badge&logo=github"></a>
   
 ### 2. Get Session ID 
 
