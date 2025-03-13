@@ -154,3 +154,15 @@ You will need a session ID to run the STANY-TECH-XMD. Click the button below to 
 <p align="center">
 <a href='https://wa.link/pn8y0n' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-DEVELOPER-6CFF3F?style=for-the-badge&logo=WhatsApp&logoColor=white'/< width=150 height=28/p></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></
+
+- **Disclaimer:** This bot is not affiliated with `WhatsApp Inc.`. Use it at your own risk.
+- Misusing the bot may result in your `WhatsApp` account being banned. Note that you can only unban your account once.
+- I am not responsible for any bans or misuse of the bot. Please keep this warning in mind before proceeding.
+
+---
+
+<h2 align="center">ℹ️ Notice</h2>
+<p style="text-align: center; font-size: 1.2em;">
+  Not For Sale - If any plugin's code is obfuscated, you do not have permission to edit it in any form. Please remember to give credit if you are using or re-uploading my plugins/files. Wishing you a wonderful day ahead!</p>
+
+©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷™𝟸𝟶𝟸𝟻 
