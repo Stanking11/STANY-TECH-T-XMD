@@ -145,3 +145,12 @@ You will need a session ID to run the STANY-TECH-XMD. Click the button below to 
 <p align="center">
 <a href='https://youtube.com/@stanleytechnology?si=FRItJCOs0nWSADoq' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-YouTubeChannel-FF0000?style=for-the-badge&logo=YouTube&logoColor=black'/< width=150 height=28/p></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></
+
+𝗖𝗢𝗠𝗠𝗨𝗡𝗜𝗖𝗔𝗧𝗘 𝗪𝗜𝗧𝗛 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥
+
+<h4 align="center">DEVELOPER</h4>
+<p style="text-align: center; font-size: 1.2em;">
+  
+<p align="center">
+<a href='https://wa.link/pn8y0n' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-DEVELOPER-6CFF3F?style=for-the-badge&logo=WhatsApp&logoColor=white'/< width=150 height=28/p></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></
