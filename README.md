@@ -121,7 +121,7 @@ You will need a session ID to run the STANY-TECH-XMD. Click the button below to 
 
 
 
-𝗢𝗨𝗥 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗧𝗘𝗔𝗠 𝗔𝗡𝗗 𝗖𝗘𝗡𝗧𝗘𝗥
+   𝗢𝗨𝗥 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗧𝗘𝗔𝗠 𝗔𝗡𝗗 𝗖𝗘𝗡𝗧𝗘𝗥
 
 <h4 align="center">OUR CHANNEL</h4>
 <p style="text-align: left corner; font-size: 1.2em;">
