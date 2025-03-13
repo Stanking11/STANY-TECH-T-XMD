@@ -119,11 +119,13 @@ You will need a session ID to run the STANY-TECH-XMD. Click the button below to 
 
 𝗢𝗨𝗥 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗧𝗘𝗔𝗠 𝗔𝗡𝗗 𝗖𝗘𝗡𝗧𝗘𝗥
 
-<h4 align="left corner">1. Channel Update</h4>
+<h4 align="center">1.OUR CHANNEL</h4>
 <p style="text-align: left corner; font-size: 1.2em;">
   
 <p align="center">
-<a href='https://whatsapp.com/channel/0029VaxKouY7tkj8NiPg0t45' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Support Team-6971FF?style=for-the-badge&logo=WhatsApp&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://whatsapp.com/channel/0029VaxKouY7tkj8NiPg0t45' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Support Team-48FF68?style=for-the-badge&logo=WhatsApp&logoColor=white'/< width=150 height=28/p></a>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=800&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
 
 
 😁𝗦𝗧𝗔𝗡𝗬 𝗧𝗘𝗖𝗛 𝗫𝗠𝗗 𝗥𝗘𝗔𝗟𝗘𝗦𝗘𝗗 𝟮𝟬𝟮𝟱
