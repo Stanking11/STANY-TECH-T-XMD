@@ -41,14 +41,14 @@ You will need a session ID to run the STANY-TECH-XMD. Click the button below to 
 
 > **1️⃣Pair Code (Session ID)**
 
-<a href='https://enzo-md-sessions-generator-2.onrender.com/pair/' target="_blank">
+<a href='https://david-session-biy2.onrender.com/pair/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
 > **2️⃣Pair Code (Session ID)**
 
-<a href='https://david-session-biy2.onrender.com' target="_blank">
+<a href='https://enzo-md-sessions-generator-2.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
